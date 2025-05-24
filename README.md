@@ -18,9 +18,8 @@ PopX is a modern React-based web application that provides a smooth user authent
 
 - **Frontend**: React, Tailwind CSS, React Router
 - **Auth**: Firebase Authentication
-- **Bundler**: Vite / Create React App *(depending on your setup)*
+- **Bundler**: Vite / Create React App
 
 ---
 
-## 📁 Project Structure
 

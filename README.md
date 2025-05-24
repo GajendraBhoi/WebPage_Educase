@@ -1,12 +1,26 @@
-# React + Vite
+# 🚀 PopX - User Authentication Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PopX is a modern React-based web application that provides a smooth user authentication experience using Firebase. It includes essential pages like Signup, Login, Home, and Profile. The design is responsive and clean, built with Tailwind CSS and React Router.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features
 
-## Expanding the ESLint configuration
+- 🔐 Firebase Authentication (Signup/Login)
+- 👤 User Profile Page
+- 🧭 Protected Routing with Conditional Navigation
+- 🌐 Fully Responsive UI (Tailwind CSS)
+- ✨ Clean, Human-Readable Code Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: React, Tailwind CSS, React Router
+- **Auth**: Firebase Authentication
+- **Bundler**: Vite / Create React App *(depending on your setup)*
+
+---
+
+## 📁 Project Structure
+
